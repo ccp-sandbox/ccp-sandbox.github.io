@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "Welcome to Jekyll!"
-date:   2015-04-18 08:43:59
-author: Ben Centra
+date:   2018-04-18 08:43:59
+author: Christian Popescu
 categories: Jekyll
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
